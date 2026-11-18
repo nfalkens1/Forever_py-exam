@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: ExamQuest
+## Notes: Every quest you accept gets a 42 exam exercise as an extra objective. No pass, no turn-in.
+## Version: 0.1.0
+## SavedVariables: ExamQuestDB
+## SavedVariablesPerCharacter: ExamQuestCharDB
+
+# Pool.lua and Results.lua are written by wow_addon/examquest.py.
+# /reload re-reads them from disk.
+Pool.lua
+Results.lua
+Core.lua
+UI.lua
